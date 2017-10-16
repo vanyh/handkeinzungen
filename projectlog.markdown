@@ -42,7 +42,7 @@
 * Umwandlung des projectlogs in eine markdown file und Formatierung
 
 ### 16.10.2016
-* Erstellung einer To-do Liste
+* Erstellung einer [To-do Liste](https://github.com/vanyh/handkeinzungen/blob/master/todolist.md)
 * Twitter-Betreuung
 * Vorbereitung von / Arbeit an einer Einreichung für die DH 2018 ([call](https://dh2018.adho.org/en/cfp_english/))
 * Kleines update auf der Projektseite
