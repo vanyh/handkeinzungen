@@ -40,3 +40,8 @@
 * Arbeit an der Projektseite
 * Erstellung des [Personeneintrags auf Wikiversity](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Fellows)
 * Umwandlung des projectlogs in eine markdown file und Formatierung
+
+### 16.10.2016
+* Erstellung einer To-do Liste
+* Twitter-Betreuung
+* Vorbereitung von / Arbeit an einer Einreichung für die DH 2018 ([call](https://dh2018.adho.org/en/cfp_english/))
