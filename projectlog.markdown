@@ -45,3 +45,4 @@
 * Erstellung einer To-do Liste
 * Twitter-Betreuung
 * Vorbereitung von / Arbeit an einer Einreichung für die DH 2018 ([call](https://dh2018.adho.org/en/cfp_english/))
+* Kleines update auf der Projektseite
