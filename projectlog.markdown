@@ -57,3 +57,4 @@
 * Twitter-Betreuung
 * institutsinterne Dokumentation der App in Redmine
 * Update der Wikiversity-Projektseite
+* Umwandlung der [To-do Liste](https://github.com/vanyh/handkeinzungen/blob/master/todolist.md) in eine Liste der dauerhaften Aufgaben, Erstellung einzelner Issues für akute Aufgaben
