@@ -49,3 +49,4 @@
 
 ### 17.10.2017
 * Ergänzung der Fußnoten im Einreichungstext auf Wikiversity
+* Eintragung v. Aktivitäten der nächsten Zeit in die Übersichtsseite auf Wikiversity
