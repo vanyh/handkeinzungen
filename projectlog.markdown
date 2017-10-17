@@ -51,4 +51,5 @@
 * Ergänzung der Fußnoten im Einreichungstext auf Wikiversity
 * Eintragung v. Aktivitäten der nächsten Zeit in die Übersichtsseite auf Wikiversity
 * Erstellung eines zweiten Github-repos für den Code der im Entstehen befindlichen [App](https://github.com/vanyh/handkeinzungen-app) (die Peter Andorfer freundlicherweise schon zu bauen begonnen hat)
-* Eröffnung einer [zotero-library](https://www.zotero.org/groups/1840645/peter_handke_stage_texts) für das Projekt
+* Eröffnung einer [zotero-library](https://www.zotero.org/groups/1840645/peter_handke_stage_texts) für das Projekt, Befüllung
+* Setup der [Projektseite](https://handkeinzungen.acdh.oeaw.ac.at/) - Code in der [App](https://github.com/vanyh/handkeinzungen-app)
