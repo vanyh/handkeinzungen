@@ -58,3 +58,8 @@
 * institutsinterne Dokumentation der App in Redmine
 * Update der Wikiversity-Projektseite
 * Umwandlung der [To-do Liste](https://github.com/vanyh/handkeinzungen/blob/master/todolist.md) in eine Liste der dauerhaften Aufgaben, Erstellung einzelner Issues für akute Aufgaben
+* Tagging der Einträge in der Zotero-library hinzugefügt: 
+  * hiz_text für selbstverfasste Texte
+  * hiz_book für Buchausgaben
+  * hiz_trans für Übersetzungen
+  * hiz_autotrans für Selbstübersetzungen (sowohl Erstschrift als auch Übersetzung)
