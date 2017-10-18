@@ -63,3 +63,6 @@
   * hiz_book für Buchausgaben
   * hiz_trans für Übersetzungen
   * hiz_autotrans für Selbstübersetzungen (sowohl Erstschrift als auch Übersetzung)
+
+### 18.10.2017
+* Twitter-Betreuung
