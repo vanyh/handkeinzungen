@@ -68,3 +68,5 @@
 * Twitter-Betreuung
 * kleine updates auf der [Projekt-App](https://handkeinzungen.acdh.oeaw.ac.at/) 
 * neuer Eintrag auf Fellows-Aktivitäten
+* Teilnahme an einem nodegoat-Workshop
+* erste Überlegungen zum Datenmodell
