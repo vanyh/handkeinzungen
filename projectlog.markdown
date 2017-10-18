@@ -69,4 +69,4 @@
 * kleine updates auf der [Projekt-App](https://handkeinzungen.acdh.oeaw.ac.at/) 
 * neuer Eintrag auf Fellows-Aktivitäten
 * Teilnahme an einem nodegoat-Workshop
-* erste Überlegungen zum Datenmodell
+* allererste Überlegungen zum Datenmodell (siehe [Entwurf](https://github.com/vanyh/handkeinzungen/blob/master/IMG_7796.JPG))
