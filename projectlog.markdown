@@ -66,3 +66,5 @@
 
 ### 18.10.2017
 * Twitter-Betreuung
+* kleine updates auf der [Projekt-App](https://handkeinzungen.acdh.oeaw.ac.at/) 
+* neuer Eintrag auf Fellows-Aktivitäten
