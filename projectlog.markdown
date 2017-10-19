@@ -71,3 +71,7 @@
 * Teilnahme an einem nodegoat-Workshop
 * allererste Überlegungen zum Datenmodell (siehe [Entwurf](https://github.com/vanyh/handkeinzungen/blob/master/IMG_7796.JPG))
 * Erstellung der [Link-Liste](https://github.com/vanyh/handkeinzungen/blob/master/linklist.md) (für alle Listen-Liebhaber_innen)
+
+### 19.10.2017
+* Twitter-Betreuung
+* Literatursammlung für das DH2018-Abstract
