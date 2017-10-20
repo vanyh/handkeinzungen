@@ -75,3 +75,7 @@
 ### 19.10.2017
 * Twitter-Betreuung
 * Literatursammlung für das DH2018-Abstract
+
+### 20.10.2017
+* Twitter-Betreuung
+* Lektüre für DH2018-Abstract
