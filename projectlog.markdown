@@ -79,3 +79,7 @@
 ### 20.10.2017
 * Twitter-Betreuung
 * Lektüre für DH2018-Abstract
+
+### 23.10.2017
+* erster Entwurf eines Datenmodells implementiert (siehe [handkeinzungen-app:models.py](https://github.com/vanyh/handkeinzungen-app/commit/ce29424672bd0587acef90d2eb49d3e47cb5a14a))
+* Twitter-Betreuung
