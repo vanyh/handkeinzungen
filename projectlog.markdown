@@ -83,3 +83,21 @@
 ### 23.10.2017
 * erster Entwurf eines Datenmodells implementiert (siehe [handkeinzungen-app:models.py](https://github.com/vanyh/handkeinzungen-app/commit/ce29424672bd0587acef90d2eb49d3e47cb5a14a))
 * Twitter-Betreuung
+
+### 24.10.2017
+* Weitere Arbeit am Datenmodell und am Frontend (siehe commits von 24.10. in [handkeinzungen-app](https://github.com/vanyh/handkeinzungen-app/commits/master))
+* Import der zotero-library
+* Twitter-Betreuung
+* Erste Dateneingabe & Veröffentlichung der daten im app-repository als [sqlite3-db](https://github.com/vanyh/handkeinzungen-app/blob/master/db.sqlite3)
+* Besprechung mit Dissertationsbetreuer & Beschluss, im Rahmen des Projekts & der App außerdem ein Handke-Wörterbuch (mit allen Wörtern, die in Fremdsprachen vorkommen) anzulegen
+
+### 25.10.2017
+* Ergänzung des Datenmodells um "words" (foreign lemmas, german lemmas)
+* Import des [STTS](http://www.ims.uni-stuttgart.de/forschung/ressourcen/lexika/TagSets/stts-table.html) (als SKOS ConceptScheme) für PoS-tagging
+* minimale Dateneingabe
+* Twitter-Betreuunng
+
+### 26.10.2017 (Nationalfeiertag)
+* Twitter-Betreuung
+* Dateneingabe
+* Nachträge im projectlog
