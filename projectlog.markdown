@@ -101,3 +101,30 @@
 * Twitter-Betreuung
 * Dateneingabe
 * Nachträge im projectlog
+
+### 27.10.2017
+* Twitter-Betreuung
+* Dateneingabe
+
+### 30.10.2017
+* Twitter-Betreuung
+* Dateneingabe
+
+### 31.10.2017
+* Treffen mit Freies Wissen-Mentor Peter Kraker
+* Twitter-Betreuung
+* Besuch der ACDH-Lecture von Gregory Crane: [Greek, Latin, Classics and the Need for a Global Philology](https://www.oeaw.ac.at/acdh/events/event-detail/article/acdh-lecture-32/)
+
+### 01.-03.11.2017
+* *Ferien*
+
+### 06.11.2017
+* Anreise zur Konferenz [2nd International Symposium Digital Humanities: Empowering Visibility of Croatian Cultural Heritage](http://conference.unizd.hr/isdh/)
+* Twitter-Betreuung
+* Vorbereitung des Vortrags *Visibility through accessibility: Peter Handke as a case study for digitizing copyrighted cultural heritage* ([Abstract](http://conference.unizd.hr/isdh/wp-content/uploads/sites/13/2017/06/DHEVCCH_Booklet_191020172.pdf))
+
+### 07.10.2017
+* Vorbereitung & Präsentation des Vortrags *Visibility through accessibility: Peter Handke as a case study for digitizing copyrighted cultural heritage* ([Folien]())
+* Teilnahme an der Konferenz [2nd International Symposium Digital Humanities: Empowering Visibility of Croatian Cultural Heritage](http://conference.unizd.hr/isdh/)
+* Twitter-Betreuung
+* Ergänzung des Projectlogs
