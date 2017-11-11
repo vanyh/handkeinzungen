@@ -123,8 +123,21 @@
 * Twitter-Betreuung
 * Vorbereitung des Vortrags *Visibility through accessibility: Peter Handke as a case study for digitizing copyrighted cultural heritage* ([Abstract](http://conference.unizd.hr/isdh/wp-content/uploads/sites/13/2017/06/DHEVCCH_Booklet_191020172.pdf))
 
-### 07.10.2017
+### 07.11.2017
 * Vorbereitung & Präsentation des Vortrags *Visibility through accessibility: Peter Handke as a case study for digitizing copyrighted cultural heritage* ([Folien](https://github.com/vanyh/handkeinzungen/blob/master/Handke_Zadar%20presentation.pdf))
 * Teilnahme an der Konferenz [2nd International Symposium Digital Humanities: Empowering Visibility of Croatian Cultural Heritage](http://conference.unizd.hr/isdh/)
 * Twitter-Betreuung
 * Ergänzung des Projectlogs
+
+### 08.11.2017
+* Teilnahme am Meeting ther DARIAH Working group "Legal & ethical issues"
+* Rückreise
+* Twitter-Betreuung
+
+### 09.11.2017
+* Reise zur TEI Konferenz 2017
+* Lektüre
+
+### 10.11.2017
+* Weiterreise
+* Lektüre
