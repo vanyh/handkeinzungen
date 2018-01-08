@@ -152,6 +152,7 @@
 * Vorbereitung und Präsentation des Vortrags *Poetische Okkasionalismen bei Nestroy und Handke: ein literarisch-linguistischer und korpuslinguistischer Kontrast* (Kagenfurt, 8.12.17, mit Wolfgang U. Dressler) im Rahmen der [Österreichischen Linguistiktagung 2017](https://conference.aau.at/event/120/) ([Abstract](https://conference.aau.at/event/120/session/8/contribution/151)) 
 * Teilnahme am Treffen der Arbeitsgruppe *Open Access & die Zukunft von Scholarly Communication* des [Open Access Network Austria OANA](http://www.oana.at/home/) (Wien, 19.12.17)
 * Einbringen & Annahme des Vorschlags einer Session zu Rechts- und Lizenzierungsfragen für den gemeinsamen Workshop der *Freies Wissen Fellows* in Hannover (Feb 2018) 
+* Twitter-Betreuung
 * Diverse Lektüre
 
 ### 22.12.2017-2.1.2018
