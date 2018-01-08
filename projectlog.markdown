@@ -141,3 +141,37 @@
 ### 10.11.2017
 * Weiterreise
 * Lektüre
+
+### November-Dezember 2017
+### Unterbrechung des Projekt-Logbuchs aufgrund von Arbeitsüberlastung. Nachträge der Aktivitäten:
+* Teilnahme an der [TEI Konferenz 2017](http://hcmc.uvic.ca/tei2017/), Präsentation zweier nicht-projektrelevanter Beiträge (*Having @sex in the TEI: The TEI 2016 gender check* & *How to stop global warming by means of TEI, or: Saving the rainforest by building a digital book of abstracts*)
+* Präsentation der mit dem open source award *Open Minds Award 2017 (Kategorie: Female)* ausgezichneten TEI2016Abstracts-App im Rahmen des 13. Vienna Open Data MeetUps (vertreten von Peter Andorfer, 16.11.17)
+* Vorbereitung und Präsentation des Vortrags *Modellierungen von Literatur. Materialien, Texte, Daten. Versuch über eine Handke-App* (Klagenfurt, 22.11.17) im Rahmen der Ring-Vorlesung [Peter Handke intermedial](https://www.aau.at/musil/aktuelles/oeffentliche-ringvorlesung-ws-201718-peter-handke-intermedial-peter-handkes-bildsprach-landschaften/ring-vorlesung-peter-handke-intermedial-peter-handkes-bildsprach-landschaften/) ([Abstract](https://www.aau.at/musil/aktuelles/oeffentliche-ringvorlesung-ws-201718-peter-handke-intermedial-peter-handkes-bildsprach-landschaften/oeffentliche-ringvorlesung-peter-handke-intermedial-abstracts/); [Folien](https://vanessahannesschlaeger.files.wordpress.com/2017/11/ring-vo-handke.pdf))
+* Vorbereitung und Präsentation der Demo-Session zu *License Selectors* (Innsbruck, 5.12.17, mit Walter Scholger) im Rahmen der Konferenz [digital humanities austria 2017: Data fist?!](https://www.uibk.ac.at/congress/dha2017/)
+* Vorbereitung und Präsentation des Workshops *Open Access, Open Source, Open Science? Open License!* (Innsbruck, 6.12.17, mit Walter Scholger) im Rahmen der Konferenz [digital humanities austria 2017: Data fist?!](https://www.uibk.ac.at/congress/dha2017/) ([Abstract](https://www.uibk.ac.at/congress/dha2017/bilder-und-dateien/workshop_lizenzen_hannesschlaegerkamockischolger_dha17.pdf); [Folien](https://vanessahannesschlaeger.files.wordpress.com/2017/12/dha2017_licensing.pdf))
+* Vorbereitung und Präsentation des Vortrags *Poetische Okkasionalismen bei Nestroy und Handke: ein literarisch-linguistischer und korpuslinguistischer Kontrast* (Kagenfurt, 8.12.17, mit Wolfgang U. Dressler) im Rahmen der [Österreichischen Linguistiktagung 2017](https://conference.aau.at/event/120/) ([Abstract](https://conference.aau.at/event/120/session/8/contribution/151)) 
+* Teilnahme am Treffen der Arbeitsgruppe *Open Access & die Zukunft von Scholarly Communication* des [Open Access Network Austria OANA](http://www.oana.at/home/) (Wien, 19.12.17)
+* Einbringen & Annahme des Vorschlags einer Session zu Rechts- und Lizenzierungsfragen für den gemeinsamen Workshop der *Freies Wissen Fellows* in Hannover (Feb 2018) 
+* Diverse Lektüre
+
+### 22.12.2017-2.1.2018
+* *Ferien*
+
+### 3.1.2018
+* Dateneingabe 
+
+### 4.1.2018
+* Dateneingabe
+* Twitter-Betreuung
+* Arbeit am Zwischenbericht
+* Versand des vorläufigen Zwischenberichts an Peter Kraker mit der Bitte um Feedback
+* Kontaktaufnahme mit den *Freies Wissen Fellows* mit der Bitte um konkrete Themenwünsche & -vorschläge für die Session zu Rechts- und Lizenzierungsfragen beim Hannover-Workshop, Sammlung der Antworten (4.1.17ff)
+
+### 5.1.2017
+* Dateneingabe & Korrekturlesen der Daten (Zitate)
+* Twitter-Betreuung
+
+### 8.1.2017
+* Dateneingabe & Korrekturlesen der Daten (Zitate)
+* Einarbeiten des Feedbacks von Peter Kraker in den Zwischenbericht
+* Update des Projekt-Logbuchs
