@@ -176,3 +176,4 @@
 * Dateneingabe & Korrekturlesen der Daten (Zitate)
 * Einarbeiten des Feedbacks von Peter Kraker in den Zwischenbericht
 * Update des Projekt-Logbuchs
+* Erstellung einer [Twitter-Liste aller Freies Wissen-Fellows](https://twitter.com/HandkeinZungen/lists/fellows-freies-wissen)
