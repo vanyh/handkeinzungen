@@ -168,12 +168,17 @@
 * Versand des vorläufigen Zwischenberichts an Peter Kraker mit der Bitte um Feedback
 * Kontaktaufnahme mit den *Freies Wissen Fellows* mit der Bitte um konkrete Themenwünsche & -vorschläge für die Session zu Rechts- und Lizenzierungsfragen beim Hannover-Workshop, Sammlung der Antworten (4.1.17ff)
 
-### 5.1.2017
+### 5.1.2018
 * Dateneingabe & Korrekturlesen der Daten (Zitate)
 * Twitter-Betreuung
 
-### 8.1.2017
+### 8.1.2018
 * Dateneingabe & Korrekturlesen der Daten (Zitate)
 * Einarbeiten des Feedbacks von Peter Kraker in den Zwischenbericht
 * Update des Projekt-Logbuchs
 * Erstellung einer [Twitter-Liste aller Freies Wissen-Fellows](https://twitter.com/HandkeinZungen/lists/fellows-freies-wissen)
+* Twitter-Betreuung
+
+### 9.1.2018
+* Verfassen eines kurzen Abstracts und Anfrage bei der VHS Wien, ob das Projekt im Rahmen des [Science-Programms](http://www.vhs.at/science.html) vorgestellt werden könnte
+* Erste Notizen für ein Essay zur ÖAW-Preisfrage [Ist gesellschaftliche Relevanz von Forschung bewertbar und wenn ja, wie?](https://www.oeaw.ac.at/preisfrage/)
