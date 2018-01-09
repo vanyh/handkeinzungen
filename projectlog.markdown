@@ -182,3 +182,4 @@
 ### 9.1.2018
 * Verfassen eines kurzen Abstracts und Anfrage bei der VHS Wien, ob das Projekt im Rahmen des [Science-Programms](http://www.vhs.at/science.html) vorgestellt werden könnte
 * Erste Notizen für ein Essay zur ÖAW-Preisfrage [Ist gesellschaftliche Relevanz von Forschung bewertbar und wenn ja, wie?](https://www.oeaw.ac.at/preisfrage/)
+* Twitter-Betreuung
