@@ -190,6 +190,6 @@
 * Notizen für den Essay zur ÖAW-Preisfrage
 
 ### 11.1.2018
-* Tastforce-meeting der institutsinternen Taskforce "legal issues"
+* Meeting der institutsinternen Taskforce "legal issues"
 * Einreichen des Abstracts *Stimm-Recht. Rechtliche Aspekte des Edierens von Audio-Material unter besonderer Berücksichtigung des digitalen Raums* für die Konferenz "Digitale Audio-Edition"
 * Vorbesprechung der Präsentation des Projekts im Rahmen von Go Sugimotos LV [*Open Research/Science for digital humanities/interdisciplinary studies*](https://ufind.univie.ac.at/en/course.html?lv=070171&semester=2017W)
