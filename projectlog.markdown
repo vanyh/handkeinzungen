@@ -196,3 +196,4 @@
 
 ### 12.1.2018
 * Upload des [Zwischenberichts auf der Projektseite](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke/Zwischenbericht)
+* Twitter-Betreuung
