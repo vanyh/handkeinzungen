@@ -193,3 +193,6 @@
 * Meeting der institutsinternen Taskforce "legal issues"
 * Einreichen des Abstracts *Stimm-Recht. Rechtliche Aspekte des Edierens von Audio-Material unter besonderer Berücksichtigung des digitalen Raums* für die Konferenz "Digitale Audio-Edition"
 * Vorbesprechung der Präsentation des Projekts im Rahmen von Go Sugimotos LV [*Open Research/Science for digital humanities/interdisciplinary studies*](https://ufind.univie.ac.at/en/course.html?lv=070171&semester=2017W)
+
+### 12.1.2018
+* Upload des [Zwischenberichts auf der Projektseite](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke/Zwischenbericht)
