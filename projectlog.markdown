@@ -197,3 +197,9 @@
 ### 12.1.2018
 * Upload des [Zwischenberichts auf der Projektseite](https://de.wikiversity.org/wiki/Wikiversity:Fellow-Programm_Freies_Wissen/Einreichungen/Dramatische_Sprachen:_Fremdsprachen_in_den_B%C3%BChnentexten_von_Peter_Handke/Zwischenbericht)
 * Twitter-Betreuung
+
+### 15.1.2018
+* Vorbereitung/Planung des Workshops *Rechtsfragen in DH- Projekten: Alles, was man wissen muss* auf der DHd2018 (siehe [Abstract](http://dhd2018.uni-koeln.de/programm/))
+* Vorbereitung/Planung der Session zu Rechts- & Lizenzierungsfragen beim Fellowship-Qalifizierungsworkshop in Hannover (Feb 2018)
+* Twitter-Betreuung
+
