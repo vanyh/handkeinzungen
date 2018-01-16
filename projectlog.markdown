@@ -201,5 +201,11 @@
 ### 15.1.2018
 * Vorbereitung/Planung des Workshops *Rechtsfragen in DH- Projekten: Alles, was man wissen muss* auf der DHd2018 (siehe [Abstract](http://dhd2018.uni-koeln.de/programm/))
 * Vorbereitung/Planung der Session zu Rechts- & Lizenzierungsfragen beim Fellowship-Qalifizierungsworkshop in Hannover (Feb 2018)
+* Datenerhebung & -eingabe
 * Twitter-Betreuung
 
+### 16.1.2018
+* Recherche zu Rechtsfragen, insbesondere zu Datenschutz-Hinweisen und Anforderungen an das Impressum
+* Datenerhebung & -eingabe
+* Organisation des Vortrags im Rahmen des [Science-Programms](http://www.vhs.at/science.html) der VHS Wien im Wintersemester 18/19
+* Twitter-Betreuung
