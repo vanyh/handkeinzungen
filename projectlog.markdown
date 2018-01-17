@@ -210,3 +210,9 @@
 * Organisation eines Vortrags im Rahmen des [Science-Programms](http://www.vhs.at/science.html) der VHS Wien im Wintersemester 18/19
 * Vorbereitung der Präsentation für den Besuch im Kurs [*Open Research/Science for digital humanities/interdisciplinary studies*](https://ufind.univie.ac.at/en/course.html?lv=070171&semester=2017W)
 * Twitter-Betreuung
+
+### 17.1.2018
+* Vorbereitung und Präsentation im Kurs [*Open Research/Science for digital humanities/interdisciplinary studies*](https://ufind.univie.ac.at/en/course.html?lv=070171&semester=2017W)
+* Bewerbung für das [Falling Walls Lab Vienna](http://falling-walls.com/)
+* Twitter-Betreuung
+
