@@ -216,3 +216,16 @@
 * Bewerbung für das [Falling Walls Lab Vienna](http://falling-walls.com/)
 * Twitter-Betreuung
 
+### 19.-27.1.2018
+*Ferien*
+
+### 28.1.2018
+* Twitter-Betreuung
+
+### 29.1.2018
+* Korrekturlesen des Ausstellungskatalogs "Peter Handke. Dauerausstellung Stift Griffen" für die zweite Auflage
+* Twitter-Betreuung
+
+### 30.1.2018
+* Besprechung der Weiterentwicklung der [Projektwebsite](https://handkeinzungen.acdh.oeaw.ac.at/): Listenansichten, Filteroptionen, Detailansichten, neue Features
+* Twitter-Betreuung
