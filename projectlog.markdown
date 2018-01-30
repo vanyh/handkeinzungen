@@ -216,6 +216,9 @@
 * Bewerbung für das [Falling Walls Lab Vienna](http://falling-walls.com/)
 * Twitter-Betreuung
 
+### 18.1.2018
+* Dateneingabe
+
 ### 19.-27.1.2018
 *Ferien*
 
@@ -228,4 +231,5 @@
 
 ### 30.1.2018
 * Besprechung der Weiterentwicklung der [Projektwebsite](https://handkeinzungen.acdh.oeaw.ac.at/): Listenansichten, Filteroptionen, Detailansichten, neue Features
+* Dateneingabe
 * Twitter-Betreuung
