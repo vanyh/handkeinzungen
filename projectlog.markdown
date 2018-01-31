@@ -220,7 +220,7 @@
 * Dateneingabe
 
 ### 19.-27.1.2018
-*Ferien*
+* *Ferien*
 
 ### 28.1.2018
 * Twitter-Betreuung
@@ -232,4 +232,9 @@
 ### 30.1.2018
 * Besprechung der Weiterentwicklung der [Projektwebsite](https://handkeinzungen.acdh.oeaw.ac.at/): Listenansichten, Filteroptionen, Detailansichten, neue Features
 * Dateneingabe
+* Twitter-Betreuung
+
+### 31.1.2018
+* Treffen mit Freies Wissen-Mentor Peter Kraker
+* Teilnahme am [Freies Wissen-Webinar zu Open Access](https://blog.wikimedia.de/2018/01/15/fellow-programm-freies-wissen-webinar-zu-open-access-am-31-januar/)
 * Twitter-Betreuung
